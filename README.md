@@ -1,7 +1,7 @@
 # Energy_Reporter
-Some design pattern practices.
+Some design pattern practices. The UML class diagram can be read and was created with an Eclipse plugin by Objectaid, which can be found here:(http://www.objectaid.com/class-diagram)
 
-Readme
+Project Readme
 Welcome to the Energy Report project.
 Please read the following instructions for Windows (NOTE: inputs are case and order sensitive):
 

@@ -1,6 +1,3 @@
-# Energy_Reporter
-Some design pattern practices.
-
 Readme
 Welcome to the Energy Report project.
 Please read the following instructions for Windows (NOTE: inputs are case and order sensitive):
@@ -12,5 +9,4 @@ Please read the following instructions for Windows (NOTE: inputs are case and or
 		java -jar Energy_Reporter.jar "../data/example_home_data.csv" usage blue_house
 		java -jar Energy_Reporter.jar "../data/example_home_data.csv" expected_savings white_house
 		java -jar Energy_Reporter.jar help
-
 
